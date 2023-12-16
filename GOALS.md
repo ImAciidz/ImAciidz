@@ -1,0 +1,23 @@
+- LiveSplit
+  - Make a tool that can arbitrarily delete attempts from the history and correct the attempt indexes/count afterward
+  - Make a tool that can combine the attempt history of split files
+  - Add autosave feature to LiveSplit itself (automatically create backups of split file every x reset/etc, to prevent loss from power outages or crashes, etc)
+  - Make autosplitter & load remover for SE:NZA 1/2/Trilogy
+- Source Engine
+  - Port L4D2 movement to other games for a laugh
+  - Left 4 Dead 2
+    - Reverse engineer infected pathing changes done by Valve during the development of The Last Stand update
+    - Figure out how to bypass CEG in earlier versions of the game so that speedrunners can use game files that are more clean/official where applicable
+    - idk man there's a lot of stuff lol, see the SST entry below
+  - SST
+    - Help add more features/fix bugs/etc. Some ideas [here](https://github.com/SirWillian/sst)
+- BOIII/T7x (I am aware the client is defunct, this is mostly for my own personal interest)
+  - Fix joining/restarting in zombies causing black screen/softlock
+  - Fix issue with the XP progress for the current level getting reset when entering stats menu
+  - Fix 25 day error (since it was apparently fixed in IW4X, this should be something I have the slightest chance of figuring out how to do this?? xd)
+  - Patch in support for >240Hz....why is this a limitation Treyarch ;_;
+- OBS
+  - Make a script for OBS that automatically toggles my gamma filter if the game being captured is Left 4 Dead (2)
+- Other
+  - Manipulate Logitech's OnboardMemoryManager to be able to change polling rate/DPI without needing to open the actual program
+  - Write something to match all unknown tracks in my full spotify play history with the custom songs in my library in conjunction with data I have from last.fm, in an attempt to create a more accurate listening history to submit to fmbot someday
