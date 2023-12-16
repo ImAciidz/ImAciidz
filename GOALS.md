@@ -6,7 +6,7 @@
 - Source Engine
   - Port L4D2 movement to other games for a laugh
   - Left 4 Dead 2
-    - Reverse engineer infected pathing changes done by Valve during the development of The Last Stand update
+    - Reverse engineer infected [pathing changes](https://www.youtube.com/watch?v=Z5lO8qnRxyk) done by Valve during the development of The Last Stand update
     - Figure out how to bypass CEG in earlier versions of the game so that speedrunners can use game files that are more clean/official where applicable
     - idk man there's a lot of stuff lol, see the SST entry below
   - SST
