@@ -2,7 +2,8 @@
   - Make a tool that can arbitrarily delete attempts from the history and correct the attempt indexes/count afterward
   - Make a tool that can combine the attempt history of split files
   - Add autosave feature to LiveSplit itself (automatically create backups of split file every x reset/etc, to prevent loss from power outages or crashes, etc)
-  - Make autosplitter & load remover for SE:NZA 1/2/Trilogy
+  - Make autosplitter & load remover for SE:NZA 1/2/Trilogy (if I get interested in running the games again)
+  - Have a way to sync timers over the internet (want accurate timers for non-host in L4D2 co-op, but honestly don't see this happening until SST itself does timing)
 - Source Engine
   - Port L4D2 movement to other games for a laugh
   - Left 4 Dead 2
