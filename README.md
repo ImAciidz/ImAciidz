@@ -30,13 +30,18 @@
   - Patch in support for >240Hz....why is this a limitation Treyarch ;_; (this is also an issue in AW, MWR, and MW2CR, so if I ever manage to do this, I'd like to fix it on all of them).
   - Fix issue with the XP progress for the current level getting reset when entering stats menu
   - Fix 25 day error (since it was apparently fixed in IW4X, this should be something I have the slightest chance of figuring out how to do?? xd)
+- Discord
+  - Make a Twitch/YouTube/etc stream announcement bot that doesn't suck, and doesn't reply on Discord statuses to send notifications (so, actually use the service APIs)
+  - Make one of those voice channel generator bots that doesn't lack features and isn't paywalled
+  - Make my own bot/service similar to .fmbot (submitting spotify track history to .fmbot only counts towards your scrobbles for as long as you remain subscribed to premium - as soon as you unsubscribe, those imported scrobbles go away until you subscribe again, and I'm not going to pay for .fmbot premium for the rest of my life, so...yeah)
+  - Maybe make my own Discord moderation/logging bot (or investigate how they work)
 - OBS
   - Make a script that automatically toggles my gamma filter if the game being captured is Left 4 Dead (2)
 - Other
   - Probably too ambitious, but make an open source version of the program NetLimiter since it went down the toilet (NetLimiter 4 was a lifetime license and no longer available if you don't already have a license for it, 5 is a subscription model, those with a lifetime license for 4 can only use 5 for like two years or something lmao)
+  - Also too ambitious, but make a leaderboard site that doesn't suck (and/or contribute to lb.gg)
   - Manipulate Logitech's OnboardMemoryManager to be able to change polling rate/DPI without needing to open the actual program
-  - Write something to match all unknown tracks in my full spotify play history with the custom songs in my library in conjunction with data I have from last.fm, in an attempt to create a more accurate listening history ~~to submit to fmbot someday~~
-  - Make my own bot/service similar to .fmbot (submitting spotify track history to .fmbot only counts towards your scrobbles for as long as you remain subscribed to premium - as soon as you unsubscribe, those imported scrobbles go away until you subscribe again, and I'm not going to pay for .fmbot premium for the rest of my life, so...yeah)
+  - Write something to match all unknown tracks in my full spotify play history with the custom songs in my library in conjunction with data I have from last.fm, in an attempt to create a more accurate listening history ~~to submit to fmbot someday~~ (see Discord bulletpoint)
   - Make my own website/set up a personal Gitea instance
 </details>
 
